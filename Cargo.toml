@@ -1,0 +1,7 @@
+[package]
+name = "keylogger"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+device_query = "3.0.0"
